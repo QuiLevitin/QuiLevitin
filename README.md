@@ -9,18 +9,6 @@
 <img align="right"  alt="Coding" width="400" src="[https://outlane.co/now/new-shot-programmer-animation/](https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1bnTtx4p-AlJj91IDnAsp5&ust=1677755951029000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCNqY3Ouv0CFQAAAAAdAAAAABAE)"/>
 
 
-- 🔭 I’m currently working on **Personal Projects**
-
-- 🌱 I’m currently learning **UX Design and React**
-
-- 👯 I’m looking to collaborate on **Game Development Projects**
-
-- 🤝 I’m looking for **Game Development Internships**
-
-- 💬 Ask me about **Unity**
-
-- 📫 How to reach me **dlarejcasulla12@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jerald-casulla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jerald-casulla/" height="30" width="40" /></a>
