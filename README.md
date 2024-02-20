@@ -3,7 +3,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<h3 align="center">A passionate mobile and game developer from Philippines</h3>
 
 **About me**
 
